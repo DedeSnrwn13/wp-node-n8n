@@ -1,7 +1,7 @@
 {
-	"name": "n8n-nodes-<...>",
+	"name": "n8n-nodes-whatspie-dev",
 	"version": "0.1.0",
-	"description": "",
+	"description": "Whatspie Node for N8N",
 	"license": "MIT",
 	"homepage": "",
 	"keywords": [
@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/<...>/n8n-nodes-<...>.git"
+		"url": "https://github.com/DedeSnrwn13/wp-node-n8n.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
